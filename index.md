@@ -3,7 +3,7 @@ This machine uses programming and electronics to create a gumball machine that o
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Rohan Rairkar | Homestead High School | Mechanical/Aerospace Engineering | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
