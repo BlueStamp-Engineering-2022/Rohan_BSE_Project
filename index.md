@@ -5,8 +5,13 @@ This machine uses programming and electronics to create a gumball machine that o
 |:--:|:--:|:--:|:--:|
 | Rohan Rairkar | Homestead High School | Mechanical/Aerospace Engineering | Incoming Junior
 
-![image](https://lh3.googleusercontent.com/pw/AM-JKLVnnP7sI6LzxgDa8Y0KXO7RgNxbgnI6-feQFFb5hWKyFV1nyY6iZ34TMninLdIXaLCwo6SlBs2b-fHBt8jr8aFRCoqPc6Q2TZyh-ec4eoRcXKH4qwqcrknia2Dub9lUxmVGy_R6C5O36TFbXlUo5nQa=s1568-no?authuser=0) 
-  
+![headstone image](https://lh3.googleusercontent.com/pw/AM-JKLVnnP7sI6LzxgDa8Y0KXO7RgNxbgnI6-feQFFb5hWKyFV1nyY6iZ34TMninLdIXaLCwo6SlBs2b-fHBt8jr8aFRCoqPc6Q2TZyh-ec4eoRcXKH4qwqcrknia2Dub9lUxmVGy_R6C5O36TFbXlUo5nQa=s1568-no?authuser=0) 
+
+# Starter Project
+My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+
+[![Starter Project](https://i3.ytimg.com/vi/fU5rxLO-P5s/maxresdefault.jpg)](https://www.youtube.com/watch?v=fU5rxLO-P5s "Starter Project"){:target="_blank" rel="noopener"}
+
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
