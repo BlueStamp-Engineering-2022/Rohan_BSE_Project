@@ -8,7 +8,7 @@ This machine uses programming and electronics to create a gumball machine that o
 ![headstone image](https://lh3.googleusercontent.com/pw/AM-JKLVnnP7sI6LzxgDa8Y0KXO7RgNxbgnI6-feQFFb5hWKyFV1nyY6iZ34TMninLdIXaLCwo6SlBs2b-fHBt8jr8aFRCoqPc6Q2TZyh-ec4eoRcXKH4qwqcrknia2Dub9lUxmVGy_R6C5O36TFbXlUo5nQa=s1568-no?authuser=0) 
 
 # Starter Project
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My starter project is the useless machine. As stated in the name, it is "useless". When the switch is flicked, an arm comes out of the box, hits a pressure switch, hits the mechanical switch into its original position, and then goes back into the box, making the machine do nothing. Initially, the arm was barely missing the switch and was making it so the machine was not doing its job. After lots of troubleshooting, I removed a couple of washers and replaced the arm part and it ended up working. However, other than that, it was smooth sailing.
 
 [![Starter Project](https://i3.ytimg.com/vi/fU5rxLO-P5s/maxresdefault.jpg)](https://www.youtube.com/watch?v=fU5rxLO-P5s "Starter Project"){:target="_blank" rel="noopener"}
 
