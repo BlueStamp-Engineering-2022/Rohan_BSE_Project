@@ -8,8 +8,7 @@ This machine uses programming and electronics to create a gumball machine that o
 ![headstone image](https://lh3.googleusercontent.com/pw/AM-JKLVnnP7sI6LzxgDa8Y0KXO7RgNxbgnI6-feQFFb5hWKyFV1nyY6iZ34TMninLdIXaLCwo6SlBs2b-fHBt8jr8aFRCoqPc6Q2TZyh-ec4eoRcXKH4qwqcrknia2Dub9lUxmVGy_R6C5O36TFbXlUo5nQa=s1568-no?authuser=0) 
 
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
-
+My final milestone is increased reliability of the funnel as well as the dispensing wheel. I added a second funnel which more accurately dispenses only one gumball into the area at a time, preventing the wheel from clogging and locking up from the excess of gumballs. In addition, I extended the ramp which the gumball rolls down with some extra acrylic parts. The main issue was the funnel entry way needed to be smaller than 4 inches to fit, but also 4 inches to fit the top, but I solved that by creating the outer layer into the place where the top sits.
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
