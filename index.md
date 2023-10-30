@@ -5,7 +5,7 @@ This machine uses programming and electronics to create a gumball machine that o
 |:--:|:--:|:--:|:--:|
 | Rohan | Homestead High School | Mechanical/Aerospace Engineering | Incoming Junior
 
-![headstone image](https://lh3.googleusercontent.com/pw/AM-JKLVnnP7sI6LzxgDa8Y0KXO7RgNxbgnI6-feQFFb5hWKyFV1nyY6iZ34TMninLdIXaLCwo6SlBs2b-fHBt8jr8aFRCoqPc6Q2TZyh-ec4eoRcXKH4qwqcrknia2Dub9lUxmVGy_R6C5O36TFbXlUo5nQa=s1568-no?authuser=0) 
+
 
 # Final Milestone
 My final milestone is increased reliability of the funnel as well as the dispensing wheel. I added a second funnel which more accurately dispenses only one gumball into the area at a time, preventing the wheel from clogging and locking up from the excess of gumballs. In addition, I extended the ramp which the gumball rolls down with some extra acrylic parts. The main issue was the funnel entry way needed to be smaller than 4 inches to fit, but also 4 inches to fit the top, but I solved that by creating the outer layer into the place where the top sits.
